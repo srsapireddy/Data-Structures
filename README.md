@@ -9,4 +9,6 @@
 ## Doubly Linked Lists: Require More memory due to additional pointers
 ![image](https://github.com/srsapireddy/Data-Structures-and-Algorithms/assets/32967087/d035836e-7bd5-43ab-a6b1-7e14b2eb6e11)
 
+## Reference
+[1] https://docs.python.org/3/library/collections.html#collections.deque
 
